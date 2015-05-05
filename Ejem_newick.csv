@@ -1,0 +1,24 @@
+Binary format:;;;;;;;;;;;;;;
+Paragorgiidae stephencairnsi;1;1;0;1;0;0;0;0;1;1;1;1;1;1
+Paragorgiidae yutlinux;1;1;0;1;0;0;0;0;1;1;1;1;1;1
+Paragorgiidae aotearoa;0;1;0;1;0;0;0;0;1;1;1;1;1;1
+Paragorgiidae johnsoni;0;1;0;1;0;0;0;0;1;1;1;1;1;1
+Paragorgiidae alisonae;0;1;0;1;0;0;0;0;1;1;1;1;1;1
+Paragorgiidae splendens;0;0;1;1;0;0;0;0;1;1;1;1;1;1
+Paragorgiidae whero;0;0;1;1;0;0;0;0;1;1;1;1;1;1
+Paragorgiidae wahine;0;0;1;1;0;0;0;0;1;1;1;1;1;1
+Paragorgiidae coralloides;0;0;0;0;1;0;1;1;1;1;1;1;1;1
+Paragorgiidae tapachtli;0;0;0;0;1;0;1;1;1;1;1;1;1;1
+Paragorgiidae kaupeka;0;0;0;0;0;1;1;1;1;1;1;1;1;1
+Paragorgiidae regalis;0;0;0;0;0;1;1;1;1;1;1;1;1;1
+Paragorgiidae maunga;0;0;0;0;0;0;0;1;1;1;1;1;1;1
+Paragorgiidae arborea;0;0;0;0;0;0;0;0;0;0;1;1;1;1
+Paragorgiidae dennisgordoni;0;0;0;0;0;0;0;0;0;0;0;1;1;1
+Paragorgiidae tautahi;0;0;0;0;0;0;0;0;0;0;0;0;1;1
+Paragorgiidae weberi;0;0;0;0;0;0;0;0;0;0;0;0;0;1
+;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Newick Format:;;;;;;;;;;;;;;
+((((((((Paragorgiidae stephencairnsi, Paragorgiidae yutlinux) Paragorgiidae aotearoa, Paragorgiidae johnsoni, Paragorgiidae alisonae) Paragorgiidae splendens, Paragorgiidae whero, Paragorgiidae wahine)(((Paragorgiidae coralloides, Paragorgiidae tapachtli) Paragorgiidae kaupeka, Paragorgiidae regalis) Paragorgiidae maunga)) Paragorgiidae arborea) Paragorgiidae dennisgordoni) Paragorgiidae tautahi) Paragorgiidae weberi);;;;;;;;;;;;;;
+;;;;;;;;;;;;;;
+Sánchez 2005, Zootaxa;;;;;;;;;;;;;;
